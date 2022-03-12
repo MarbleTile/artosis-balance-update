@@ -31,5 +31,5 @@ the list of changes ('I' prefix for implemented, 'N' for not):
 * N dark swarm reduces ranged damage by 99% or to 1 (dunno how yet)
 * I defiler -1 armor
 
-
-N super late game +2 armor zealot upgrade (artosis is dumb sometimes)
+## ETC
+* N super late game +2 armor zealot upgrade (artosis is dumb sometimes)
