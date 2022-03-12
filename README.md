@@ -7,6 +7,8 @@ used Firegraft and PyMS to edit the .dat files, package them into an mpq, and tu
 
 ### online guide by the illustrious pr0nogo: http://pr0nogo.wikidot.com/sc-play
 
+### only download the dang exe if you trust me & wanna try it out!
+
 ## Requirements:
 ### for exe
 * Starcraft: Brood War v1.16.1 (https://archive.org/details/starcraft-broodwar-1.16.1)
