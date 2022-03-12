@@ -9,26 +9,35 @@ i do not know how to implement artosis' ideas about zerg. i will figure it out s
 
 the list of changes ('I' prefix for implemented, 'N' for not):
 
-\nTERRAN
-\nI turret damage type to normal, +25 to mineral cost
-\nI optical flare research time 75s -> 30s
-\nI optical flare energy cost 75 -> 50
-\nI restoration energy cost 50 -> 25
-\nI ghost damage type from concussive to normal
-\nI ocular implant research time 104s -> 50s
-\nN scv range to 1 (artosis was unsure)
-\nN emp projectile faster (dunno how yet, artosis unsure)
+---TERRAN---
+I turret damage type to normal, +25 to mineral cost
+I optical flare research time 75s -> 30s
+I optical flare energy cost 75 -> 50
+I restoration energy cost 50 -> 25
+I ghost damage type from concussive to normal
+I ocular implant research time 104s -> 50s
+N scv range to 1 (artosis was unsure)
+N emp projectile faster (dunno how yet, artosis unsure)
 
-\nPROTOSS
-\nI assimilator -150 shields
-\nI assimilator, nexus, probe -1 vision (implemented -1, did not bring them into line with other buildings, probe is consistent)
-\nI scout -50 minerals, -25 gas
-\nI plasma shields -100 minerals, -100 gas
+---PROTOSS---
 
-\nZERG
-\nN infested terran deal damage upon death (dunno how yet)
-\nN consuming unit brings defiler energy regen 200% (dunno how yet)
-\nN dark swarm reduces ranged damage by 99% or to 1 (dunno how yet)
-\nI defiler -1 armor
+I assimilator -150 shields
 
-\nN super late game +2 armor zealot upgrade (artosis is dumb sometimes)
+I assimilator, nexus, probe -1 vision (implemented -1, did not bring them into line with other buildings, probe is consistent)
+
+I scout -50 minerals, -25 gas
+
+I plasma shields -100 minerals, -100 gas
+
+---ZERG---
+
+N infested terran deal damage upon death (dunno how yet)
+
+N consuming unit brings defiler energy regen 200% (dunno how yet)
+
+N dark swarm reduces ranged damage by 99% or to 1 (dunno how yet)
+
+I defiler -1 armor
+
+
+N super late game +2 armor zealot upgrade (artosis is dumb sometimes)
