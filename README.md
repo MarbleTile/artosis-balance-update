@@ -7,7 +7,7 @@ posting the .dat & .mpq so people can verify this software is safe.
 
 i do not know how to implement artosis' ideas about zerg. i will figure it out some other time.
 
-the list of changes ('I' prefix for implemented, 'N' for not):
+### changelog legend: 'I' prefix for implemented, 'N' for not
 
 ## TERRAN
 * I turret damage type to normal, +25 to mineral cost
