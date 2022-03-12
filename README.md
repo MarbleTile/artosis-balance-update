@@ -3,6 +3,8 @@ implements the starcraft: brood war balance ideas that artosis detailed in https
 
 most agree that the tosis is an idiot but i implemented his ideas anyways...
 
+the mod is called remove-protoss because that's what artosis wishes this was.
+
 used Firegraft and PyMS to edit the .dat files, package them into an mpq, and turn that into an executable. posted the .dat & .mpq so people can verify this software is safe. i do not know how to implement artosis' ideas about zerg. i will figure it out some other time.
 
 ### online guide by the illustrious pr0nogo: http://pr0nogo.wikidot.com/sc-play
