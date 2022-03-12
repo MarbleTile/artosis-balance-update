@@ -9,7 +9,7 @@ i do not know how to implement artosis' ideas about zerg. i will figure it out s
 
 the list of changes ('I' prefix for implemented, 'N' for not):
 
-##TERRAN
+## TERRAN
 * I turret damage type to normal, +25 to mineral cost
 * I optical flare research time 75s -> 30s
 * I optical flare energy cost 75 -> 50
@@ -19,13 +19,13 @@ the list of changes ('I' prefix for implemented, 'N' for not):
 * N scv range to 1 (artosis was unsure)
 * N emp projectile faster (dunno how yet, artosis unsure)
 
-##PROTOSS
+## PROTOSS
 * I assimilator -150 shields
 * I assimilator, nexus, probe -1 vision (implemented -1, did not bring them into line with other buildings, probe is consistent)
 * I scout -50 minerals, -25 gas
 * I plasma shields -100 minerals, -100 gas
 
-##ZERG
+## ZERG
 * N infested terran deal damage upon death (dunno how yet)
 * N consuming unit brings defiler energy regen 200% (dunno how yet)
 * N dark swarm reduces ranged damage by 99% or to 1 (dunno how yet)
